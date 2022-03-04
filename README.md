@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maliksalem1
 - 👀 I’m interested in cs
-- 🌱 I’m currently learning HTML, Java adn CSS
+- 🌱 I’m currently learning HTML, Java and CSS
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me. well u cant
 
