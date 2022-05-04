@@ -27,7 +27,7 @@ taken from Mr.coxall's github acount
   
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
-  # How To Contact ME
+ <h2>💻How To Contact Me?</h2>
 <a href="mailto:malik.salem@mths.ca?subject=%20"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   
 <!---
